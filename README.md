@@ -37,7 +37,3 @@ Meteor Escape is a fast-paced 2D arcade game where players must dodge falling me
 - **JavaScript** — Game logic and interactivity
 
 ---
-
-## 📂 Project Structure
-
-
